@@ -1,0 +1,58 @@
+body {
+    background-color: #ffefdb; /* Creamy yellow */
+    font-family: Arial, sans-serif; /* Default font */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px; /* Adjusted margin top */
+}
+
+table {
+    margin: auto;
+}
+
+input {
+    border-radius: 30px; /* Rounded border */
+    border: 4px solid #7e4a35; /* Dark brown border */
+    font-size: 24px;
+    height: 50px; /* Reduced height */
+    width: 400px; /* Reduced width */
+    padding: 10px; /* Added padding */
+    margin-bottom: 20px; /* Increased bottom margin */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Added shadow */
+}
+
+button {
+    border-radius: 20px;
+    font-size: 28px; /* Increased font size */
+    background: #ff7f50; /* Coral color */
+    color: #fff; /* White text */
+    width: 100px;
+    height: 80px; /* Increased height */
+    margin: 10px;
+    border: none; /* Removed border */
+    cursor: pointer; /* Pointer cursor */
+    transition: background-color 0.3s ease; /* Smooth transition */
+}
+
+button:hover {
+    background-color: #ff6347; /* Lighter coral color on hover */
+}
+
+.calculator {
+    border: 5px solid #7e4a35; /* Dark brown border */
+    background-color: #f0e68c; /* Khaki color */
+    padding: 30px;
+    border-radius: 50px; /* Rounded border */
+    display: inline-block;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Added shadow */
+}
+
+h1 {
+    font-size: 36px; /* Increased font size */
+    font-family: 'Arial Black', sans-serif; /* Bold font */
+    color: #7e4a35; /* Dark brown color */
+}
